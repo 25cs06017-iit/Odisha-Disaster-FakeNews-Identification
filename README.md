@@ -221,7 +221,7 @@ The `knowledge_base.json` is a curated set of over 150 disaster-related verified
 - Prashant Kumar (25AI06019)
 - Utsaw Kunar (25CS06023)
 - Abhishek Kumar (25CS06012)
-- Sandeep Kumar (25CS06018)
+- Sandeep (25CS06018)
 - Sujeet Kumar Yadav (25CS06022)
 - Dev Patel (25CS06015)
 - Priyanka Kundu (25CS06011)
@@ -254,5 +254,6 @@ Potential project extensions include:
 ---
 
 **If you need additional project resources (PPT, report PDF, architecture diagram, demo script, or GitHub Pages), feel free to request them!**
+
 
 
