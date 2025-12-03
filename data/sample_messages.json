@@ -1,0 +1,10 @@
+[
+  {
+    "id": "msg1",
+    "text": "Breaking: Cyclone Fani has permanently destroyed all shelters and power in Puri. Government is hiding the truth and water is poisonous.",
+    "source_cred": "Low",
+    "ling_uncertainty": "High",
+    "sensational": "Present",
+    "fact_contradiction": "Yes"
+  }
+]
