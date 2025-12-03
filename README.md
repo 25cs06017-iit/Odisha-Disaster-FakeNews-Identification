@@ -215,7 +215,7 @@ The `knowledge_base.json` is a curated set of over 150 disaster-related verified
 
 ## 👥 Team Members – Group 8
 
-*Add your names below:*
+
 
 - Raj Kumar Singh (25CS06017)
 - Prashant Kumar (25AI06019)
@@ -254,4 +254,5 @@ Potential project extensions include:
 ---
 
 **If you need additional project resources (PPT, report PDF, architecture diagram, demo script, or GitHub Pages), feel free to request them!**
+
 
