@@ -1,0 +1,1 @@
+from .advisory_generator import generate_advisory
