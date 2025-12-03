@@ -1,0 +1,3860 @@
+[
+  {
+    "id": "news1",
+    "title": "Cyclone Fani Landfall Confirmed",
+    "text": "Official IMD reports confirm Cyclone Fani made landfall near Puri, Odisha on 3 May 2019 with severe wind impact.",
+    "tags": [
+      "cyclone",
+      "fani",
+      "landfall",
+      "imd"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "confirm",
+      "confirmed",
+      "cyclone",
+      "fani",
+      "imd",
+      "impact",
+      "landfall",
+      "made",
+      "may",
+      "near",
+      "odisha",
+      "official",
+      "puri",
+      "reports",
+      "severe",
+      "wind"
+    ]
+  },
+  {
+    "id": "news2",
+    "title": "Viral Video Misattributed to Cyclone Fani",
+    "text": "A viral video claiming to show Cyclone Fani was debunked by AFP and TheQuint; the footage was from an unrelated storm.",
+    "tags": [
+      "fake_video",
+      "misinformation",
+      "fani"
+    ],
+    "is_verified": false,
+    "links": [
+      "news1"
+    ],
+    "auto_tags": [
+      "afp",
+      "claiming",
+      "cyclone",
+      "debunked",
+      "fani",
+      "footage",
+      "misattributed",
+      "show",
+      "storm",
+      "thequint",
+      "unrelated",
+      "video",
+      "viral"
+    ]
+  },
+  {
+    "id": "news3",
+    "title": "OSDMA Documents Mass Evacuations During Fani",
+    "text": "State disaster reports show large-scale evacuation and staged relief before Cyclone Fani.",
+    "tags": [
+      "osdma",
+      "evacuation",
+      "fani"
+    ],
+    "is_verified": true,
+    "links": [
+      "news1"
+    ],
+    "auto_tags": [
+      "cyclone",
+      "disaster",
+      "documents",
+      "evacuation",
+      "evacuations",
+      "fani",
+      "large",
+      "mass",
+      "osdma",
+      "relief",
+      "reports",
+      "scale",
+      "show",
+      "staged",
+      "state"
+    ]
+  },
+  {
+    "id": "news4",
+    "title": "False Claim About Permanent Power Loss in Puri",
+    "text": "Rumors alleging permanent destruction of power lines in Puri after Fani were denied by state utilities.",
+    "tags": [
+      "fake_news",
+      "power",
+      "fani"
+    ],
+    "is_verified": false,
+    "links": [
+      "news3"
+    ],
+    "auto_tags": [
+      "alleging",
+      "claim",
+      "denied",
+      "destruction",
+      "false",
+      "fani",
+      "lines",
+      "loss",
+      "permanent",
+      "power",
+      "puri",
+      "rumors",
+      "state",
+      "utilities"
+    ]
+  },
+  {
+    "id": "news5",
+    "title": "1999 Odisha Super Cyclone Casualties Verified",
+    "text": "Historical disaster records confirm nearly 10,000 deaths in the 1999 Odisha super cyclone.",
+    "tags": [
+      "super_cyclone",
+      "1999",
+      "casualties"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "casualties",
+      "confirm",
+      "cyclone",
+      "deaths",
+      "disaster",
+      "historical",
+      "nearly",
+      "odisha",
+      "records",
+      "super",
+      "verified"
+    ]
+  },
+  {
+    "id": "news6",
+    "title": "Fake US Billboard Supporting Odisha During Fani",
+    "text": "Images claiming US billboards supported Odisha during Fani were found to be digitally edited.",
+    "tags": [
+      "fake_images",
+      "fani",
+      "misinformation"
+    ],
+    "is_verified": false,
+    "links": [
+      "news1"
+    ],
+    "auto_tags": [
+      "billboard",
+      "billboards",
+      "claiming",
+      "digitally",
+      "edited",
+      "fake",
+      "fani",
+      "found",
+      "images",
+      "odisha",
+      "supported",
+      "supporting",
+      "us"
+    ]
+  },
+  {
+    "id": "news7",
+    "title": "Cyclone Hudhud Impact on Odisha Confirmed",
+    "text": "Cyclone Hudhud (2014) caused evacuations and at least two deaths in Odisha.",
+    "tags": [
+      "hudhud",
+      "cyclone",
+      "evacuation"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "caused",
+      "confirmed",
+      "cyclone",
+      "deaths",
+      "evacuations",
+      "hudhud",
+      "impact",
+      "least",
+      "odisha",
+      "two"
+    ]
+  },
+  {
+    "id": "news8",
+    "title": "Cyclone Dana Viral Video Debunked",
+    "text": "A misleading video claiming to show Cyclone Dana damage was proven to be old footage.",
+    "tags": [
+      "dana",
+      "fake_video"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "claiming",
+      "cyclone",
+      "damage",
+      "dana",
+      "debunked",
+      "footage",
+      "misleading",
+      "old",
+      "proven",
+      "show",
+      "video",
+      "viral"
+    ]
+  },
+  {
+    "id": "news9",
+    "title": "Cyclone Phailin Impact Verified",
+    "text": "Cyclone Phailin made landfall near Gopalpur causing massive evacuations and damage.",
+    "tags": [
+      "phailin",
+      "cyclone"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "causing",
+      "cyclone",
+      "damage",
+      "evacuations",
+      "gopalpur",
+      "impact",
+      "landfall",
+      "made",
+      "massive",
+      "near",
+      "phailin",
+      "verified"
+    ]
+  },
+  {
+    "id": "news10",
+    "title": "Dangerous Fake Advisory During Cyclone Fani",
+    "text": "A viral message incorrectly advised residents to break windows during the cyclone; NDRF debunked it.",
+    "tags": [
+      "fake_advisory",
+      "fani",
+      "ndrF"
+    ],
+    "is_verified": false,
+    "links": [
+      "news1"
+    ],
+    "auto_tags": [
+      "advised",
+      "advisory",
+      "break",
+      "cyclone",
+      "dangerous",
+      "debunked",
+      "fake",
+      "fani",
+      "incorrectly",
+      "message",
+      "ndrf",
+      "residents",
+      "viral",
+      "windows"
+    ]
+  },
+  {
+    "id": "news11",
+    "title": "Cyclone Titli Landslide Impact Confirmed",
+    "text": "Cyclone Titli (2018) triggered landslides and severe damage in coastal districts.",
+    "tags": [
+      "titli",
+      "cyclone",
+      "landslide"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "coastal",
+      "confirmed",
+      "cyclone",
+      "damage",
+      "districts",
+      "impact",
+      "landslide",
+      "landslides",
+      "severe",
+      "titli",
+      "triggered"
+    ]
+  },
+  {
+    "id": "news12",
+    "title": "Train Accident Image Miscaptioned",
+    "text": "An ISKCON temple was miscaptioned as a mosque near an Odisha train accident site to fuel tensions.",
+    "tags": [
+      "fake_image",
+      "miscaption",
+      "communal"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "accident",
+      "fuel",
+      "image",
+      "iskcon",
+      "miscaptioned",
+      "mosque",
+      "near",
+      "odisha",
+      "site",
+      "temple",
+      "tensions",
+      "train"
+    ]
+  },
+  {
+    "id": "news13",
+    "title": "OSDMA Publishes District-Wise Preparedness Reports",
+    "text": "OSDMA regularly publishes cyclone preparedness and shelter readiness reports.",
+    "tags": [
+      "osdma",
+      "preparedness"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "cyclone",
+      "district",
+      "osdma",
+      "preparedness",
+      "publishes",
+      "readiness",
+      "regularly",
+      "reports",
+      "shelter",
+      "wise"
+    ]
+  },
+  {
+    "id": "news14",
+    "title": "Edited Video Shared as Real Evacuation Order",
+    "text": "A training exercise video was falsely shared as a real emergency announcement.",
+    "tags": [
+      "fake_video",
+      "misinformation"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "announcement",
+      "edited",
+      "emergency",
+      "evacuation",
+      "exercise",
+      "falsely",
+      "order",
+      "real",
+      "shared",
+      "training",
+      "video"
+    ]
+  },
+  {
+    "id": "news15",
+    "title": "Fishermen Advised to Stay Ashore During Cyclone",
+    "text": "IMD advisories encouraged Odisha fishermen to stay ashore, reducing casualties.",
+    "tags": [
+      "fishermen",
+      "warning",
+      "fani"
+    ],
+    "is_verified": true,
+    "links": [
+      "news1"
+    ],
+    "auto_tags": [
+      "advised",
+      "advisories",
+      "ashore",
+      "casualties",
+      "cyclone",
+      "encouraged",
+      "fishermen",
+      "imd",
+      "odisha",
+      "reducing",
+      "stay"
+    ]
+  },
+  {
+    "id": "news16",
+    "title": "False Claim About Relief Funds Diversion",
+    "text": "Viral posts claimed Odisha relief funds were diverted; audits did not support this.",
+    "tags": [
+      "fake_news",
+      "relief_fund"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "audits",
+      "claim",
+      "claimed",
+      "did",
+      "diversion",
+      "diverted",
+      "false",
+      "funds",
+      "odisha",
+      "posts",
+      "relief",
+      "support",
+      "viral"
+    ]
+  },
+  {
+    "id": "news17",
+    "title": "Cyclone Dana Impact Confirmed by AP News",
+    "text": "Verified reports show Cyclone Dana affected Odisha, but many viral videos were fake.",
+    "tags": [
+      "dana",
+      "cyclone"
+    ],
+    "is_verified": true,
+    "links": [
+      "news8"
+    ],
+    "auto_tags": [
+      "affected",
+      "ap",
+      "confirmed",
+      "cyclone",
+      "dana",
+      "fake",
+      "impact",
+      "many",
+      "news",
+      "odisha",
+      "reports",
+      "show",
+      "verified",
+      "videos",
+      "viral"
+    ]
+  },
+  {
+    "id": "news18",
+    "title": "False Claim of 5m Sea Rise at Puri",
+    "text": "IMD tide data showed no evidence of a 5m sea-level rise during recent storms.",
+    "tags": [
+      "fake_claim",
+      "puri",
+      "sea_level"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "claim",
+      "data",
+      "evidence",
+      "false",
+      "imd",
+      "level",
+      "m",
+      "puri",
+      "recent",
+      "rise",
+      "sea",
+      "showed",
+      "storms",
+      "tide"
+    ]
+  },
+  {
+    "id": "news19",
+    "title": "Cyclone Fani Fatality Count Verified",
+    "text": "Official sources confirm over 60 deaths in Odisha due to Cyclone Fani.",
+    "tags": [
+      "fani",
+      "fatalities"
+    ],
+    "is_verified": true,
+    "links": [
+      "news1"
+    ],
+    "auto_tags": [
+      "confirm",
+      "count",
+      "cyclone",
+      "deaths",
+      "due",
+      "fani",
+      "fatality",
+      "odisha",
+      "official",
+      "sources",
+      "verified"
+    ]
+  },
+  {
+    "id": "news20",
+    "title": "Misleading Water Safety Advisory",
+    "text": "A viral statewide boil-water order was misleading; only local advisories were issued.",
+    "tags": [
+      "water",
+      "fake_advisory"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "advisories",
+      "advisory",
+      "boil",
+      "issued",
+      "local",
+      "misleading",
+      "order",
+      "safety",
+      "statewide",
+      "viral",
+      "water"
+    ]
+  },
+  {
+    "id": "news21",
+    "title": "Satellite Imagery Confirms Erosion After Storms",
+    "text": "Remote sensing data confirmed coastline erosion after major storms in Odisha.",
+    "tags": [
+      "erosion",
+      "satellite"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "coastline",
+      "confirmed",
+      "confirms",
+      "data",
+      "erosion",
+      "imagery",
+      "major",
+      "odisha",
+      "remote",
+      "satellite",
+      "sensing",
+      "storms"
+    ]
+  },
+  {
+    "id": "news22",
+    "title": "Unverified Claims About Fish Deaths After Storm",
+    "text": "Viral claims blamed chemical dumping for fish deaths; investigations were inconclusive.",
+    "tags": [
+      "fish_kill",
+      "unverified"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "blamed",
+      "chemical",
+      "claims",
+      "deaths",
+      "dumping",
+      "fish",
+      "inconclusive",
+      "investigations",
+      "storm",
+      "unverified",
+      "viral"
+    ]
+  },
+  {
+    "id": "news23",
+    "title": "OSDMA Releases Cyclone Shelter Data",
+    "text": "Odisha publishes district-wise cyclone shelter and evacuation reports.",
+    "tags": [
+      "shelters",
+      "osdma"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "cyclone",
+      "data",
+      "district",
+      "evacuation",
+      "odisha",
+      "osdma",
+      "publishes",
+      "releases",
+      "reports",
+      "shelter",
+      "wise"
+    ]
+  },
+  {
+    "id": "news24",
+    "title": "False Claim That Bridges Collapsed Before Cyclone",
+    "text": "Engineering assessments show collapses occurred due to storm impact, not before.",
+    "tags": [
+      "fake_claim",
+      "bridges"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "assessments",
+      "bridges",
+      "claim",
+      "collapsed",
+      "collapses",
+      "cyclone",
+      "due",
+      "engineering",
+      "false",
+      "impact",
+      "occurred",
+      "show",
+      "storm"
+    ]
+  },
+  {
+    "id": "news25",
+    "title": "Odisha Flash Floods Confirmed in Monsoon Season",
+    "text": "Reports confirmed flash flooding in low-lying regions during the 2018\u20132019 monsoons.",
+    "tags": [
+      "flood",
+      "monsoon"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "confirmed",
+      "flash",
+      "flooding",
+      "floods",
+      "low",
+      "lying",
+      "monsoon",
+      "monsoons",
+      "odisha",
+      "regions",
+      "reports",
+      "season"
+    ]
+  },
+  {
+    "id": "news26",
+    "title": "Monsoon Storms Cause Property Damage in Coastal Odisha",
+    "text": "Seasonal monsoon storms brought heavy rainfall and localized flooding, damaging homes in coastal Odisha districts.",
+    "tags": [
+      "monsoon",
+      "flood",
+      "rainfall"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "brought",
+      "cause",
+      "coastal",
+      "damage",
+      "damaging",
+      "districts",
+      "flooding",
+      "heavy",
+      "homes",
+      "localized",
+      "monsoon",
+      "odisha",
+      "property",
+      "rainfall",
+      "seasonal",
+      "storms"
+    ]
+  },
+  {
+    "id": "news27",
+    "title": "False Rumor of Tsunami Warning After Minor Tremor",
+    "text": "A viral message falsely claimed that an earthquake near Odisha triggered a tsunami alert; official agencies issued no such warning.",
+    "tags": [
+      "fake_warning",
+      "tsunami",
+      "earthquake"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "agencies",
+      "alert",
+      "claimed",
+      "earthquake",
+      "false",
+      "falsely",
+      "issued",
+      "message",
+      "minor",
+      "near",
+      "odisha",
+      "official",
+      "rumor",
+      "tremor",
+      "triggered",
+      "tsunami",
+      "viral",
+      "warning"
+    ]
+  },
+  {
+    "id": "news28",
+    "title": "Odisha Heatwave Alert Officially Issued",
+    "text": "IMD issued a severe heatwave alert for interior Odisha districts during peak summer.",
+    "tags": [
+      "heatwave",
+      "imd",
+      "alert"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "alert",
+      "districts",
+      "heatwave",
+      "imd",
+      "interior",
+      "issued",
+      "odisha",
+      "officially",
+      "peak",
+      "severe",
+      "summer"
+    ]
+  },
+  {
+    "id": "news29",
+    "title": "Fake Video Claims to Show Flood in Cuttack",
+    "text": "A video alleging catastrophic flooding in Cuttack was debunked as old footage from another state.",
+    "tags": [
+      "fake_video",
+      "cuttack",
+      "flood"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "alleging",
+      "another",
+      "catastrophic",
+      "claims",
+      "cuttack",
+      "debunked",
+      "fake",
+      "flood",
+      "flooding",
+      "footage",
+      "old",
+      "show",
+      "state",
+      "video"
+    ]
+  },
+  {
+    "id": "news30",
+    "title": "Fishermen Rescued After Cyclone Winds Hit Coast",
+    "text": "NDRF teams rescued multiple fishermen stranded at sea during sudden cyclone-related wind intensification.",
+    "tags": [
+      "ndrF",
+      "fishermen",
+      "rescue"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "coast",
+      "cyclone",
+      "fishermen",
+      "hit",
+      "intensification",
+      "multiple",
+      "ndrf",
+      "related",
+      "rescued",
+      "sea",
+      "stranded",
+      "sudden",
+      "teams",
+      "wind",
+      "winds"
+    ]
+  },
+  {
+    "id": "news31",
+    "title": "Unverified Claim of Crocodile Sightings in Flooded Streets",
+    "text": "Viral claims of crocodiles roaming urban Odisha streets during floods were not confirmed by authorities.",
+    "tags": [
+      "unverified",
+      "wildlife",
+      "flood"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "authorities",
+      "claim",
+      "claims",
+      "confirmed",
+      "crocodile",
+      "crocodiles",
+      "flooded",
+      "floods",
+      "odisha",
+      "roaming",
+      "sightings",
+      "streets",
+      "unverified",
+      "urban",
+      "viral"
+    ]
+  },
+  {
+    "id": "news32",
+    "title": "Government Confirms Relief Camps Open Across Odisha",
+    "text": "Official statements reported the opening of multiple relief camps in flood-affected districts.",
+    "tags": [
+      "relief_camps",
+      "government",
+      "flood"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "across",
+      "affected",
+      "camps",
+      "confirms",
+      "districts",
+      "flood",
+      "government",
+      "multiple",
+      "odisha",
+      "official",
+      "open",
+      "opening",
+      "relief",
+      "reported",
+      "statements"
+    ]
+  },
+  {
+    "id": "news33",
+    "title": "False Claim That Cyclone Blew Away Entire Village",
+    "text": "Images circulated claiming a whole Odisha village was blown away by cyclone winds; officials denied total destruction.",
+    "tags": [
+      "fake_claim",
+      "cyclone",
+      "village"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "away",
+      "blew",
+      "blown",
+      "circulated",
+      "claim",
+      "claiming",
+      "cyclone",
+      "denied",
+      "destruction",
+      "entire",
+      "false",
+      "images",
+      "odisha",
+      "officials",
+      "total",
+      "village",
+      "whole",
+      "winds"
+    ]
+  },
+  {
+    "id": "news34",
+    "title": "Cyclone Shelters Successfully Withstood Storm Winds",
+    "text": "Structural inspections after the cyclone confirmed that all designated cyclone shelters remained safe.",
+    "tags": [
+      "shelter",
+      "inspection",
+      "structural_safety"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "confirmed",
+      "cyclone",
+      "designated",
+      "inspections",
+      "remained",
+      "safe",
+      "shelters",
+      "storm",
+      "structural",
+      "successfully",
+      "winds",
+      "withstood"
+    ]
+  },
+  {
+    "id": "news35",
+    "title": "Misleading Photo Shared as Lightning Strike After Cyclone",
+    "text": "A dramatic photo of lightning was miscaptioned as 'taken during cyclone aftermath' but was stock photography.",
+    "tags": [
+      "fake_image",
+      "lightning",
+      "misinformation"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "aftermath",
+      "cyclone",
+      "dramatic",
+      "lightning",
+      "miscaptioned",
+      "misleading",
+      "photo",
+      "photography",
+      "shared",
+      "stock",
+      "strike",
+      "taken"
+    ]
+  },
+  {
+    "id": "news36",
+    "title": "OSDMA Deploys Rapid Response Teams",
+    "text": "OSDMA confirmed rapid response teams were deployed to high-risk coastal blocks before landfall.",
+    "tags": [
+      "osdma",
+      "rapid_response"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "blocks",
+      "coastal",
+      "confirmed",
+      "deployed",
+      "deploys",
+      "high",
+      "landfall",
+      "osdma",
+      "rapid",
+      "response",
+      "risk",
+      "teams"
+    ]
+  },
+  {
+    "id": "news37",
+    "title": "Fake Video Claims Roads Split Open Due to Cyclone",
+    "text": "A viral video of cracked roads was traced to an old earthquake event, not a recent cyclone in Odisha.",
+    "tags": [
+      "fake_video",
+      "roads",
+      "misattribution"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "claims",
+      "cracked",
+      "cyclone",
+      "due",
+      "earthquake",
+      "event",
+      "fake",
+      "odisha",
+      "old",
+      "open",
+      "recent",
+      "roads",
+      "split",
+      "traced",
+      "video",
+      "viral"
+    ]
+  },
+  {
+    "id": "news38",
+    "title": "Heavy Rainfall Breaks Local Records",
+    "text": "Meteorological data shows that certain Odisha districts recorded the highest rainfall in two decades.",
+    "tags": [
+      "rainfall",
+      "records",
+      "imd"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "breaks",
+      "certain",
+      "data",
+      "decades",
+      "districts",
+      "heavy",
+      "highest",
+      "local",
+      "meteorological",
+      "odisha",
+      "rainfall",
+      "recorded",
+      "records",
+      "shows",
+      "two"
+    ]
+  },
+  {
+    "id": "news39",
+    "title": "Rumors Claim Wildlife Escaped From Zoo After Storm",
+    "text": "Authorities clarified that no animals escaped from Nandankanan Zoo despite viral rumors.",
+    "tags": [
+      "fake_rumor",
+      "zoo",
+      "storm"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "animals",
+      "authorities",
+      "claim",
+      "clarified",
+      "despite",
+      "escaped",
+      "nandankanan",
+      "rumors",
+      "storm",
+      "viral",
+      "wildlife",
+      "zoo"
+    ]
+  },
+  {
+    "id": "news40",
+    "title": "Cyclone-Damaged Roads Block Emergency Travel",
+    "text": "Multiple key roads were confirmed blocked due to fallen trees and flooding during cyclone impact.",
+    "tags": [
+      "roads",
+      "blockage",
+      "cyclone"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "block",
+      "blocked",
+      "confirmed",
+      "cyclone",
+      "damaged",
+      "due",
+      "emergency",
+      "fallen",
+      "flooding",
+      "impact",
+      "key",
+      "multiple",
+      "roads",
+      "travel",
+      "trees"
+    ]
+  },
+  {
+    "id": "news41",
+    "title": "Unverified Claim That Dams Were Secretly Opened",
+    "text": "Messages alleging unannounced dam water release were not supported by official dam management records.",
+    "tags": [
+      "dam",
+      "unverified",
+      "fake_claim"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "alleging",
+      "claim",
+      "dam",
+      "dams",
+      "management",
+      "messages",
+      "official",
+      "opened",
+      "records",
+      "release",
+      "secretly",
+      "supported",
+      "unannounced",
+      "unverified",
+      "water"
+    ]
+  },
+  {
+    "id": "news42",
+    "title": "NDRF Confirms Successful Evacuation Operations",
+    "text": "Rescue teams evacuated thousands of residents from flood-prone areas before water levels rose.",
+    "tags": [
+      "ndrF",
+      "evacuation"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "areas",
+      "confirms",
+      "evacuated",
+      "evacuation",
+      "flood",
+      "levels",
+      "ndrf",
+      "operations",
+      "prone",
+      "rescue",
+      "residents",
+      "rose",
+      "successful",
+      "teams",
+      "thousands",
+      "water"
+    ]
+  },
+  {
+    "id": "news43",
+    "title": "Fake Image of Flyover Collapse Goes Viral",
+    "text": "An image claiming a flyover collapsed in Odisha during the storm was found to be from another country.",
+    "tags": [
+      "fake_image",
+      "flyover",
+      "storm"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "another",
+      "claiming",
+      "collapse",
+      "collapsed",
+      "country",
+      "fake",
+      "flyover",
+      "found",
+      "goes",
+      "image",
+      "odisha",
+      "storm",
+      "viral"
+    ]
+  },
+  {
+    "id": "news44",
+    "title": "Odisha Records Zero Casualties Due to Early Evacuation",
+    "text": "Due to effective early warnings, some districts reported zero casualties during recent cyclones.",
+    "tags": [
+      "evacuation",
+      "warning",
+      "success"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "casualties",
+      "cyclones",
+      "districts",
+      "due",
+      "early",
+      "effective",
+      "evacuation",
+      "odisha",
+      "recent",
+      "records",
+      "reported",
+      "warnings",
+      "zero"
+    ]
+  },
+  {
+    "id": "news45",
+    "title": "False Rumor That Schools Collapsed in Jagatsinghpur",
+    "text": "Authorities confirmed all school buildings remained structurally safe despite viral claims.",
+    "tags": [
+      "fake_rumor",
+      "schools",
+      "structural_safety"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "authorities",
+      "buildings",
+      "claims",
+      "collapsed",
+      "confirmed",
+      "despite",
+      "false",
+      "jagatsinghpur",
+      "remained",
+      "rumor",
+      "safe",
+      "school",
+      "schools",
+      "structurally",
+      "viral"
+    ]
+  },
+  {
+    "id": "news46",
+    "title": "Cyclone Winds Uproot Thousands of Trees",
+    "text": "Forest officials confirmed large-scale uprooting of trees during cyclonic landfall.",
+    "tags": [
+      "cyclone",
+      "forestry",
+      "damage"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "confirmed",
+      "cyclone",
+      "cyclonic",
+      "forest",
+      "landfall",
+      "large",
+      "officials",
+      "scale",
+      "thousands",
+      "trees",
+      "uproot",
+      "uprooting",
+      "winds"
+    ]
+  },
+  {
+    "id": "news47",
+    "title": "Fake Message Claims Mobile Networks Shutdown Statewide",
+    "text": "Telecom operators denied statewide shutdown; only localized outages occurred.",
+    "tags": [
+      "fake_news",
+      "telecom",
+      "network"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "claims",
+      "denied",
+      "fake",
+      "localized",
+      "message",
+      "mobile",
+      "networks",
+      "occurred",
+      "operators",
+      "outages",
+      "shutdown",
+      "statewide",
+      "telecom"
+    ]
+  },
+  {
+    "id": "news48",
+    "title": "Odisha Govt Confirms Food Supply to Relief Shelters",
+    "text": "Daily meals were supplied to all major relief shelters during flood operations.",
+    "tags": [
+      "relief",
+      "food",
+      "flood"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "confirms",
+      "daily",
+      "flood",
+      "food",
+      "govt",
+      "major",
+      "meals",
+      "odisha",
+      "operations",
+      "relief",
+      "shelters",
+      "supplied",
+      "supply"
+    ]
+  },
+  {
+    "id": "news49",
+    "title": "Misleading Claim of Snake Infestation After Floods",
+    "text": "Authorities found no evidence of abnormal snake presence despite viral claims.",
+    "tags": [
+      "fake_rumor",
+      "snakes",
+      "flood"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "abnormal",
+      "authorities",
+      "claim",
+      "claims",
+      "despite",
+      "evidence",
+      "floods",
+      "found",
+      "infestation",
+      "misleading",
+      "presence",
+      "snake",
+      "viral"
+    ]
+  },
+  {
+    "id": "news50",
+    "title": "Odisha Health Dept Confirms No Disease Outbreak",
+    "text": "Health officials reported no epidemic outbreaks after recent flooding.",
+    "tags": [
+      "health",
+      "flood",
+      "disease"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "confirms",
+      "dept",
+      "disease",
+      "epidemic",
+      "flooding",
+      "health",
+      "odisha",
+      "officials",
+      "outbreak",
+      "outbreaks",
+      "recent",
+      "reported"
+    ]
+  },
+  {
+    "id": "news51",
+    "title": "Floodwater Enters Low-Lying Villages in Kendrapara",
+    "text": "Continuous rainfall caused floodwater to enter several low-lying villages in Kendrapara district.",
+    "tags": [
+      "flood",
+      "rainfall",
+      "kendrapara"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "caused",
+      "continuous",
+      "district",
+      "enter",
+      "enters",
+      "floodwater",
+      "kendrapara",
+      "low",
+      "lying",
+      "rainfall",
+      "several",
+      "villages"
+    ]
+  },
+  {
+    "id": "news52",
+    "title": "False Claim of Crocodile Attack During Floods",
+    "text": "Rumors of crocodile attacks during Odisha floods were denied by forest department officials.",
+    "tags": [
+      "fake_rumor",
+      "wildlife",
+      "flood"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "attack",
+      "attacks",
+      "claim",
+      "crocodile",
+      "denied",
+      "department",
+      "false",
+      "floods",
+      "forest",
+      "odisha",
+      "officials",
+      "rumors"
+    ]
+  },
+  {
+    "id": "news53",
+    "title": "IMD Issues Red Alert for Heavy Rainfall",
+    "text": "The Indian Meteorological Department issued a red alert for torrential rainfall in southern Odisha.",
+    "tags": [
+      "imd",
+      "red_alert",
+      "rainfall"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "alert",
+      "department",
+      "heavy",
+      "imd",
+      "indian",
+      "issued",
+      "issues",
+      "meteorological",
+      "odisha",
+      "rainfall",
+      "red",
+      "southern",
+      "torrential"
+    ]
+  },
+  {
+    "id": "news54",
+    "title": "Misleading Photo Shared as Odisha Flood Evacuation",
+    "text": "A photo circulated as an Odisha flood evacuation was actually from Bangladesh.",
+    "tags": [
+      "fake_image",
+      "flood",
+      "misinformation"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "actually",
+      "bangladesh",
+      "circulated",
+      "evacuation",
+      "flood",
+      "misleading",
+      "odisha",
+      "photo",
+      "shared"
+    ]
+  },
+  {
+    "id": "news55",
+    "title": "NDRF Rescues Elderly Residents in Flooded Areas",
+    "text": "The NDRF successfully evacuated elderly residents stranded by rising waters.",
+    "tags": [
+      "ndrF",
+      "rescue",
+      "flood"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "areas",
+      "elderly",
+      "evacuated",
+      "flooded",
+      "ndrf",
+      "rescues",
+      "residents",
+      "rising",
+      "stranded",
+      "successfully",
+      "waters"
+    ]
+  },
+  {
+    "id": "news56",
+    "title": "Fake Video Claims Bhubaneswar Airport Is Underwater",
+    "text": "Authorities clarified that the viral video was unrelated and the airport remained operational.",
+    "tags": [
+      "fake_video",
+      "airport",
+      "flood"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "airport",
+      "authorities",
+      "bhubaneswar",
+      "claims",
+      "clarified",
+      "fake",
+      "operational",
+      "remained",
+      "underwater",
+      "unrelated",
+      "video",
+      "viral"
+    ]
+  },
+  {
+    "id": "news57",
+    "title": "Odisha Govt Provides Compensation to Affected Farmers",
+    "text": "The state government announced financial assistance for crop losses due to flooding.",
+    "tags": [
+      "compensation",
+      "farmers",
+      "flood"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "affected",
+      "announced",
+      "assistance",
+      "compensation",
+      "crop",
+      "due",
+      "farmers",
+      "financial",
+      "flooding",
+      "government",
+      "govt",
+      "losses",
+      "odisha",
+      "provides",
+      "state"
+    ]
+  },
+  {
+    "id": "news58",
+    "title": "False Alert Claims Cyclone Will Hit Within 24 Hours",
+    "text": "IMD confirmed no cyclone was forming despite viral panic messages.",
+    "tags": [
+      "fake_alert",
+      "cyclone",
+      "imd"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "alert",
+      "claims",
+      "confirmed",
+      "cyclone",
+      "despite",
+      "false",
+      "forming",
+      "hit",
+      "hours",
+      "imd",
+      "messages",
+      "panic",
+      "viral",
+      "within"
+    ]
+  },
+  {
+    "id": "news59",
+    "title": "Storm Damages Electricity Poles Across Coastal Regions",
+    "text": "Strong winds damaged numerous electric poles, causing temporary outages.",
+    "tags": [
+      "storm",
+      "electricity",
+      "damage"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "across",
+      "causing",
+      "coastal",
+      "damaged",
+      "damages",
+      "electric",
+      "electricity",
+      "numerous",
+      "outages",
+      "poles",
+      "regions",
+      "storm",
+      "strong",
+      "temporary",
+      "winds"
+    ]
+  },
+  {
+    "id": "news60",
+    "title": "Fake Claim That Entire District Was Evacuated",
+    "text": "Officials denied claims that an entire district had been fully evacuated before landfall.",
+    "tags": [
+      "fake_rumor",
+      "evacuation",
+      "cyclone"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "claim",
+      "claims",
+      "denied",
+      "district",
+      "entire",
+      "evacuated",
+      "fake",
+      "fully",
+      "had",
+      "landfall",
+      "officials"
+    ]
+  },
+  {
+    "id": "news61",
+    "title": "IMD Issues Cyclone Tracking Bulletins",
+    "text": "Regular cyclone bulletins were issued to track storm movement accurately.",
+    "tags": [
+      "imd",
+      "bulletin",
+      "cyclone"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "accurately",
+      "bulletins",
+      "cyclone",
+      "imd",
+      "issued",
+      "issues",
+      "movement",
+      "regular",
+      "storm",
+      "track",
+      "tracking"
+    ]
+  },
+  {
+    "id": "news62",
+    "title": "False Rumor of Breakwater Collapse in Paradip",
+    "text": "Authorities inspected the Paradip port breakwater and found no structural failure.",
+    "tags": [
+      "fake_rumor",
+      "paradip",
+      "port"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "authorities",
+      "breakwater",
+      "collapse",
+      "failure",
+      "false",
+      "found",
+      "inspected",
+      "paradip",
+      "port",
+      "rumor",
+      "structural"
+    ]
+  },
+  {
+    "id": "news63",
+    "title": "Odisha Opens Temporary Medical Camps",
+    "text": "Health authorities set up temporary medical camps for flood-affected residents.",
+    "tags": [
+      "medical",
+      "healthcare",
+      "flood"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "affected",
+      "authorities",
+      "camps",
+      "flood",
+      "health",
+      "medical",
+      "odisha",
+      "opens",
+      "residents",
+      "set",
+      "temporary"
+    ]
+  },
+  {
+    "id": "news64",
+    "title": "Fake Video Claims Tornado Hit Odisha",
+    "text": "A video falsely claiming a tornado struck Odisha was traced to a different country.",
+    "tags": [
+      "fake_video",
+      "tornado"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "claiming",
+      "claims",
+      "country",
+      "different",
+      "fake",
+      "falsely",
+      "hit",
+      "odisha",
+      "struck",
+      "tornado",
+      "traced",
+      "video"
+    ]
+  },
+  {
+    "id": "news65",
+    "title": "Villagers Use Boats for Safe Evacuation",
+    "text": "Rescue teams provided boats to evacuate villagers stranded by rising waters.",
+    "tags": [
+      "rescue",
+      "boats",
+      "flood"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "boats",
+      "evacuate",
+      "evacuation",
+      "provided",
+      "rescue",
+      "rising",
+      "safe",
+      "stranded",
+      "teams",
+      "use",
+      "villagers",
+      "waters"
+    ]
+  },
+  {
+    "id": "news66",
+    "title": "False Claim That Relief Trucks Never Reached Villages",
+    "text": "Inspection reports confirmed relief trucks reached all designated locations.",
+    "tags": [
+      "fake_news",
+      "relief",
+      "distribution"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "claim",
+      "confirmed",
+      "designated",
+      "false",
+      "inspection",
+      "locations",
+      "never",
+      "reached",
+      "relief",
+      "reports",
+      "trucks",
+      "villages"
+    ]
+  },
+  {
+    "id": "news67",
+    "title": "Water Levels in Major Rivers Rising",
+    "text": "IMD and water resources data show major rivers nearing danger levels.",
+    "tags": [
+      "rivers",
+      "water_level",
+      "flood"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "danger",
+      "data",
+      "imd",
+      "levels",
+      "major",
+      "nearing",
+      "resources",
+      "rising",
+      "rivers",
+      "show",
+      "water"
+    ]
+  },
+  {
+    "id": "news68",
+    "title": "False Message Predicts Earthquake After Cyclone",
+    "text": "Viral messages predicting an earthquake after the cyclone were baseless.",
+    "tags": [
+      "fake_rumor",
+      "earthquake"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "baseless",
+      "cyclone",
+      "earthquake",
+      "false",
+      "message",
+      "messages",
+      "predicting",
+      "predicts",
+      "viral"
+    ]
+  },
+  {
+    "id": "news69",
+    "title": "Residents Shift to Elevated Shelters",
+    "text": "Thousands moved to elevated cyclone shelters ahead of expected flooding.",
+    "tags": [
+      "shelter",
+      "evacuation",
+      "flood"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "ahead",
+      "cyclone",
+      "elevated",
+      "expected",
+      "flooding",
+      "moved",
+      "residents",
+      "shelters",
+      "shift",
+      "thousands"
+    ]
+  },
+  {
+    "id": "news70",
+    "title": "Fake Claim That Reservoir Burst After Heavy Rains",
+    "text": "Officials denied reports that a reservoir burst; the structure was intact.",
+    "tags": [
+      "fake_claim",
+      "reservoir"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "burst",
+      "claim",
+      "denied",
+      "fake",
+      "heavy",
+      "intact",
+      "officials",
+      "rains",
+      "reports",
+      "reservoir",
+      "structure"
+    ]
+  },
+  {
+    "id": "news71",
+    "title": "Heavy Winds Damage Agricultural Fields",
+    "text": "Cyclone winds damaged paddy and vegetable crops across multiple blocks.",
+    "tags": [
+      "agriculture",
+      "crop_loss",
+      "cyclone"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "across",
+      "agricultural",
+      "blocks",
+      "crops",
+      "cyclone",
+      "damage",
+      "damaged",
+      "fields",
+      "heavy",
+      "multiple",
+      "paddy",
+      "vegetable",
+      "winds"
+    ]
+  },
+  {
+    "id": "news72",
+    "title": "False Rumor of Wild Elephants Entering Towns",
+    "text": "Forest authorities confirmed no elephant movement in towns despite viral claims.",
+    "tags": [
+      "fake_rumor",
+      "elephants"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "authorities",
+      "claims",
+      "confirmed",
+      "despite",
+      "elephant",
+      "elephants",
+      "entering",
+      "false",
+      "forest",
+      "movement",
+      "rumor",
+      "towns",
+      "viral",
+      "wild"
+    ]
+  },
+  {
+    "id": "news73",
+    "title": "Odisha Police Ensure Safe Evacuation Process",
+    "text": "Police forces assisted vulnerable populations in reaching safe shelters.",
+    "tags": [
+      "police",
+      "evacuation",
+      "safety"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "assisted",
+      "ensure",
+      "evacuation",
+      "forces",
+      "odisha",
+      "police",
+      "populations",
+      "process",
+      "reaching",
+      "safe",
+      "shelters",
+      "vulnerable"
+    ]
+  },
+  {
+    "id": "news74",
+    "title": "Fake Image Shows Collapsed School Building",
+    "text": "A photo claiming a school collapsed in Odisha was found to be from Nepal.",
+    "tags": [
+      "fake_image",
+      "school",
+      "collapse"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "building",
+      "claiming",
+      "collapsed",
+      "fake",
+      "found",
+      "image",
+      "nepal",
+      "odisha",
+      "photo",
+      "school",
+      "shows"
+    ]
+  },
+  {
+    "id": "news75",
+    "title": "Cyclone Causes Major Storm Surge in Coastal Areas",
+    "text": "Storm surge inundated several coastal blocks, prompting urgent evacuation.",
+    "tags": [
+      "storm_surge",
+      "coast",
+      "cyclone"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "areas",
+      "blocks",
+      "causes",
+      "coastal",
+      "cyclone",
+      "evacuation",
+      "inundated",
+      "major",
+      "prompting",
+      "several",
+      "storm",
+      "surge",
+      "urgent"
+    ]
+  },
+  {
+    "id": "news76",
+    "title": "Fake Video Claims Volcano Erupted in Odisha",
+    "text": "A viral video claiming 'volcanic eruption in Odisha' was entirely fabricated.",
+    "tags": [
+      "fake_video",
+      "volcano"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "claiming",
+      "claims",
+      "entirely",
+      "erupted",
+      "eruption",
+      "fabricated",
+      "fake",
+      "odisha",
+      "video",
+      "viral",
+      "volcanic",
+      "volcano"
+    ]
+  },
+  {
+    "id": "news77",
+    "title": "Odisha Govt Ensures Drinking Water Supply",
+    "text": "Tanker services were deployed to provide drinking water in affected villages.",
+    "tags": [
+      "water_supply",
+      "relief"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "affected",
+      "deployed",
+      "drinking",
+      "ensures",
+      "govt",
+      "odisha",
+      "provide",
+      "services",
+      "supply",
+      "tanker",
+      "villages",
+      "water"
+    ]
+  },
+  {
+    "id": "news78",
+    "title": "Misleading Map Shows Fake Flood Zones",
+    "text": "A viral map showing large flooded zones was digitally altered.",
+    "tags": [
+      "fake_map",
+      "flood"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "altered",
+      "digitally",
+      "fake",
+      "flood",
+      "flooded",
+      "large",
+      "map",
+      "misleading",
+      "showing",
+      "shows",
+      "viral",
+      "zones"
+    ]
+  },
+  {
+    "id": "news79",
+    "title": "Cyclone-Damaged Bridges Being Repaired",
+    "text": "Public works departments began repairing damaged bridges after the cyclone.",
+    "tags": [
+      "bridges",
+      "repair",
+      "cyclone"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "began",
+      "bridges",
+      "cyclone",
+      "damaged",
+      "departments",
+      "public",
+      "repaired",
+      "repairing",
+      "works"
+    ]
+  },
+  {
+    "id": "news80",
+    "title": "Fake Claim of Poisonous Gas Leak After Storm",
+    "text": "Authorities confirmed no gas leaks occurred despite viral misinformation.",
+    "tags": [
+      "fake_rumor",
+      "gas_leak"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "authorities",
+      "claim",
+      "confirmed",
+      "despite",
+      "fake",
+      "gas",
+      "leak",
+      "leaks",
+      "misinformation",
+      "occurred",
+      "poisonous",
+      "storm",
+      "viral"
+    ]
+  },
+  {
+    "id": "news81",
+    "title": "Fishermen Warned to Avoid Deep Sea",
+    "text": "IMD issued clear warnings advising fishermen to stay away from deep-sea zones.",
+    "tags": [
+      "fishermen",
+      "warning",
+      "imd"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "advising",
+      "avoid",
+      "away",
+      "clear",
+      "deep",
+      "fishermen",
+      "imd",
+      "issued",
+      "sea",
+      "stay",
+      "warned",
+      "warnings",
+      "zones"
+    ]
+  },
+  {
+    "id": "news82",
+    "title": "Fake WhatsApp Message Predicts Second Cyclone",
+    "text": "A viral message predicting a 'second cyclone within 48 hours' was baseless.",
+    "tags": [
+      "fake_news",
+      "cyclone_prediction"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "baseless",
+      "cyclone",
+      "fake",
+      "hours",
+      "message",
+      "predicting",
+      "predicts",
+      "second",
+      "viral",
+      "whatsapp",
+      "within"
+    ]
+  },
+  {
+    "id": "news83",
+    "title": "Evacuated Families Receive Relief Materials",
+    "text": "State agencies distributed food, water, and essentials to evacuated families.",
+    "tags": [
+      "relief_materials",
+      "evacuation"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "agencies",
+      "distributed",
+      "essentials",
+      "evacuated",
+      "families",
+      "food",
+      "materials",
+      "receive",
+      "relief",
+      "state",
+      "water"
+    ]
+  },
+  {
+    "id": "news84",
+    "title": "Fake Photo of Floating Cars Circulates",
+    "text": "A viral image showing cars floating on a flooded road was found to be from China.",
+    "tags": [
+      "fake_image",
+      "cars",
+      "flood"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "cars",
+      "china",
+      "circulates",
+      "fake",
+      "floating",
+      "flooded",
+      "found",
+      "image",
+      "photo",
+      "road",
+      "showing",
+      "viral"
+    ]
+  },
+  {
+    "id": "news85",
+    "title": "Cyclone Weakens After Landfall",
+    "text": "IMD confirmed that the cyclone gradually weakened after making landfall.",
+    "tags": [
+      "cyclone",
+      "landfall",
+      "imd"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "confirmed",
+      "cyclone",
+      "gradually",
+      "imd",
+      "landfall",
+      "making",
+      "weakened",
+      "weakens"
+    ]
+  },
+  {
+    "id": "news86",
+    "title": "False Claim That AIIMS Bhubaneswar Was Flooded",
+    "text": "Authorities confirmed that viral images of a flooded AIIMS campus were fake.",
+    "tags": [
+      "fake_news",
+      "aiims",
+      "flood"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "aiims",
+      "authorities",
+      "bhubaneswar",
+      "campus",
+      "claim",
+      "confirmed",
+      "fake",
+      "false",
+      "flooded",
+      "images",
+      "viral"
+    ]
+  },
+  {
+    "id": "news87",
+    "title": "People Shift to Higher Ground as Water Rises",
+    "text": "Residents moved to higher ground as rivers approached danger level.",
+    "tags": [
+      "evacuation",
+      "rising_water"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "approached",
+      "danger",
+      "ground",
+      "higher",
+      "level",
+      "moved",
+      "people",
+      "residents",
+      "rises",
+      "rivers",
+      "shift",
+      "water"
+    ]
+  },
+  {
+    "id": "news88",
+    "title": "Fake Advisory Claims Wildfire Risk After Cyclone",
+    "text": "Fake warnings of a 'wildfire risk due to cyclone effects' were debunked.",
+    "tags": [
+      "fake_advisory",
+      "wildfire"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "advisory",
+      "claims",
+      "cyclone",
+      "debunked",
+      "due",
+      "effects",
+      "fake",
+      "risk",
+      "warnings",
+      "wildfire"
+    ]
+  },
+  {
+    "id": "news89",
+    "title": "Odisha Fire Services Clear Fallen Trees",
+    "text": "Fire service teams worked continuously to clear roads blocked by fallen trees.",
+    "tags": [
+      "fire_services",
+      "trees",
+      "clearance"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "blocked",
+      "clear",
+      "continuously",
+      "fallen",
+      "fire",
+      "odisha",
+      "roads",
+      "service",
+      "services",
+      "teams",
+      "trees",
+      "worked"
+    ]
+  },
+  {
+    "id": "news90",
+    "title": "Fake Voice Note Claims Entire Coast Will Submerge",
+    "text": "A viral voice note falsely claimed Odisha's entire coastline would be underwater.",
+    "tags": [
+      "fake_voice_note",
+      "submerge"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "claimed",
+      "claims",
+      "coast",
+      "coastline",
+      "entire",
+      "fake",
+      "falsely",
+      "note",
+      "odisha",
+      "s",
+      "submerge",
+      "underwater",
+      "viral",
+      "voice",
+      "would"
+    ]
+  },
+  {
+    "id": "news91",
+    "title": "State Confirms Restoration of Power Supply",
+    "text": "Electricity restoration work began within hours of cyclone slowdown.",
+    "tags": [
+      "restoration",
+      "power",
+      "cyclone"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "began",
+      "confirms",
+      "cyclone",
+      "electricity",
+      "hours",
+      "power",
+      "restoration",
+      "slowdown",
+      "state",
+      "supply",
+      "within",
+      "work"
+    ]
+  },
+  {
+    "id": "news92",
+    "title": "Fake Claim Says Animals Predicted Upcoming Storm",
+    "text": "No scientific evidence supports claims that animal behavior predicted the storm.",
+    "tags": [
+      "fake_claim",
+      "animals"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "animal",
+      "animals",
+      "behavior",
+      "claim",
+      "claims",
+      "evidence",
+      "fake",
+      "predicted",
+      "says",
+      "scientific",
+      "storm",
+      "supports",
+      "upcoming"
+    ]
+  },
+  {
+    "id": "news93",
+    "title": "Relief Camps Provide Clean Drinking Water",
+    "text": "Authorities ensured safe drinking water was available to all evacuees.",
+    "tags": [
+      "relief",
+      "water",
+      "evacuees"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "authorities",
+      "available",
+      "camps",
+      "clean",
+      "drinking",
+      "ensured",
+      "evacuees",
+      "provide",
+      "relief",
+      "safe",
+      "water"
+    ]
+  },
+  {
+    "id": "news94",
+    "title": "Fake Image Shows Helicopter Crash After Cyclone",
+    "text": "An image of a helicopter crash circulated as 'from Odisha' was from Brazil.",
+    "tags": [
+      "fake_image",
+      "helicopter"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "brazil",
+      "circulated",
+      "crash",
+      "cyclone",
+      "fake",
+      "helicopter",
+      "image",
+      "odisha",
+      "shows"
+    ]
+  },
+  {
+    "id": "news95",
+    "title": "Water Levels Drop After Controlled Dam Release",
+    "text": "Officials confirmed water levels eased after controlled release from reservoirs.",
+    "tags": [
+      "dam",
+      "controlled_release"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "confirmed",
+      "controlled",
+      "dam",
+      "drop",
+      "eased",
+      "levels",
+      "officials",
+      "release",
+      "reservoirs",
+      "water"
+    ]
+  },
+  {
+    "id": "news96",
+    "title": "False Message Warns of Airborne Disease Spread",
+    "text": "A forward claiming cyclone winds carried airborne diseases was dismissed by health officials.",
+    "tags": [
+      "fake_news",
+      "health"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "airborne",
+      "carried",
+      "claiming",
+      "cyclone",
+      "disease",
+      "diseases",
+      "dismissed",
+      "false",
+      "forward",
+      "health",
+      "message",
+      "officials",
+      "spread",
+      "warns",
+      "winds"
+    ]
+  },
+  {
+    "id": "news97",
+    "title": "NGOs Distribute Relief Packages",
+    "text": "Local NGOs distributed food and essential supplies to flood-affected families.",
+    "tags": [
+      "ngo",
+      "relief",
+      "distribution"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "affected",
+      "distribute",
+      "distributed",
+      "essential",
+      "families",
+      "flood",
+      "food",
+      "local",
+      "ngos",
+      "packages",
+      "relief",
+      "supplies"
+    ]
+  },
+  {
+    "id": "news98",
+    "title": "Fake Photo Claims Odisha Highway Was Destroyed",
+    "text": "The viral photo of a destroyed highway was from a different country.",
+    "tags": [
+      "fake_image",
+      "highway"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "claims",
+      "country",
+      "destroyed",
+      "different",
+      "fake",
+      "highway",
+      "odisha",
+      "photo",
+      "viral"
+    ]
+  },
+  {
+    "id": "news99",
+    "title": "Meteorologists Confirm Storm Intensification",
+    "text": "Satellite data showed intensifying cloud bands indicating storm strengthening.",
+    "tags": [
+      "meteorology",
+      "storm"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "bands",
+      "cloud",
+      "confirm",
+      "data",
+      "indicating",
+      "intensification",
+      "intensifying",
+      "meteorologists",
+      "satellite",
+      "showed",
+      "storm",
+      "strengthening"
+    ]
+  },
+  {
+    "id": "news100",
+    "title": "Fake Message Warns of 'Black Rainfall' After Cyclone",
+    "text": "A viral message predicting toxic black rain was debunked as misinformation.",
+    "tags": [
+      "fake_rumor",
+      "black_rain"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "black",
+      "cyclone",
+      "debunked",
+      "fake",
+      "message",
+      "misinformation",
+      "predicting",
+      "rain",
+      "rainfall",
+      "toxic",
+      "viral",
+      "warns"
+    ]
+  },
+  {
+    "id": "news101",
+    "title": "Cyclone Shelters Reach Maximum Capacity",
+    "text": "Thousands of residents took refuge in cyclone shelters as winds intensified.",
+    "tags": [
+      "shelters",
+      "evacuation",
+      "cyclone"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "capacity",
+      "cyclone",
+      "intensified",
+      "maximum",
+      "reach",
+      "refuge",
+      "residents",
+      "shelters",
+      "thousands",
+      "took",
+      "winds"
+    ]
+  },
+  {
+    "id": "news102",
+    "title": "Fake Claim of Snake Rain Circulating",
+    "text": "A bizarre viral claim that snakes 'rained from the sky' during the storm was debunked.",
+    "tags": [
+      "fake_rumor",
+      "snakes"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "bizarre",
+      "circulating",
+      "claim",
+      "debunked",
+      "fake",
+      "rain",
+      "rained",
+      "sky",
+      "snake",
+      "snakes",
+      "storm",
+      "viral"
+    ]
+  },
+  {
+    "id": "news103",
+    "title": "Rapid Response Teams Clear Major Highways",
+    "text": "Emergency teams cleared debris from national highways to restore connectivity.",
+    "tags": [
+      "highways",
+      "clearance",
+      "emergency"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "clear",
+      "cleared",
+      "connectivity",
+      "debris",
+      "emergency",
+      "highways",
+      "major",
+      "national",
+      "rapid",
+      "response",
+      "restore",
+      "teams"
+    ]
+  },
+  {
+    "id": "news104",
+    "title": "Fake Video Claims Boats Capsized Due to Cyclone",
+    "text": "A capsizing video linked to Odisha was from a Southeast Asian country.",
+    "tags": [
+      "fake_video",
+      "boats"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "asian",
+      "boats",
+      "capsized",
+      "capsizing",
+      "claims",
+      "country",
+      "cyclone",
+      "due",
+      "fake",
+      "linked",
+      "odisha",
+      "southeast",
+      "video"
+    ]
+  },
+  {
+    "id": "news105",
+    "title": "Medical Teams Deployed to Remote Villages",
+    "text": "Doctors and paramedics reached remote flood-hit areas to provide care.",
+    "tags": [
+      "medical",
+      "healthcare",
+      "flood"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "areas",
+      "care",
+      "deployed",
+      "doctors",
+      "flood",
+      "hit",
+      "medical",
+      "paramedics",
+      "provide",
+      "reached",
+      "remote",
+      "teams",
+      "villages"
+    ]
+  },
+  {
+    "id": "news106",
+    "title": "False Rumor Says River Changed Course",
+    "text": "Geological experts denied claims that the river changed its course overnight.",
+    "tags": [
+      "fake_rumor",
+      "river"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "changed",
+      "claims",
+      "course",
+      "denied",
+      "experts",
+      "false",
+      "geological",
+      "overnight",
+      "river",
+      "rumor",
+      "says"
+    ]
+  },
+  {
+    "id": "news107",
+    "title": "Livestock Evacuated Ahead of Cyclone",
+    "text": "Farmers moved livestock to elevated safe zones before heavy rainfall.",
+    "tags": [
+      "livestock",
+      "evacuation"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "ahead",
+      "cyclone",
+      "elevated",
+      "evacuated",
+      "farmers",
+      "heavy",
+      "livestock",
+      "moved",
+      "rainfall",
+      "safe",
+      "zones"
+    ]
+  },
+  {
+    "id": "news108",
+    "title": "Fake Image Shows Giant Waves in Puri",
+    "text": "A viral image claiming enormous tidal waves near Puri was photoshopped.",
+    "tags": [
+      "fake_image",
+      "puri"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "claiming",
+      "enormous",
+      "fake",
+      "giant",
+      "image",
+      "near",
+      "photoshopped",
+      "puri",
+      "shows",
+      "tidal",
+      "viral",
+      "waves"
+    ]
+  },
+  {
+    "id": "news109",
+    "title": "State Confirms All Major Dams Are Safe",
+    "text": "Structural inspections showed no safety issues in major Odisha dams.",
+    "tags": [
+      "dam",
+      "safety"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "confirms",
+      "dams",
+      "inspections",
+      "issues",
+      "major",
+      "odisha",
+      "safe",
+      "safety",
+      "showed",
+      "state",
+      "structural"
+    ]
+  },
+  {
+    "id": "news110",
+    "title": "Fake Claim Predicts 300 km/hr Winds",
+    "text": "IMD denied viral predictions of unrealistic wind speeds.",
+    "tags": [
+      "fake_news",
+      "wind_speed"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "claim",
+      "denied",
+      "fake",
+      "hr",
+      "imd",
+      "km",
+      "predictions",
+      "predicts",
+      "speeds",
+      "unrealistic",
+      "viral",
+      "wind",
+      "winds"
+    ]
+  },
+  {
+    "id": "news111",
+    "title": "NDRF Saves Children Trapped in Flooded House",
+    "text": "NDRF teams rescued children trapped inside a flooded home in rural Odisha.",
+    "tags": [
+      "ndrF",
+      "rescue",
+      "children"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "children",
+      "flooded",
+      "home",
+      "house",
+      "inside",
+      "ndrf",
+      "odisha",
+      "rescued",
+      "rural",
+      "saves",
+      "teams",
+      "trapped"
+    ]
+  },
+  {
+    "id": "news112",
+    "title": "False Image Claims School Turned Into Lake",
+    "text": "A viral image of a submerged school was traced to Thailand.",
+    "tags": [
+      "fake_image",
+      "school",
+      "flood"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "claims",
+      "false",
+      "image",
+      "lake",
+      "school",
+      "submerged",
+      "thailand",
+      "traced",
+      "turned",
+      "viral"
+    ]
+  },
+  {
+    "id": "news113",
+    "title": "Electricity Restored in Major Towns",
+    "text": "Repair teams restored power in towns affected by storm winds.",
+    "tags": [
+      "electricity",
+      "restoration"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "affected",
+      "electricity",
+      "major",
+      "power",
+      "repair",
+      "restored",
+      "storm",
+      "teams",
+      "towns",
+      "winds"
+    ]
+  },
+  {
+    "id": "news114",
+    "title": "Fake Audio Clip Claims Bridges Are Collapsing",
+    "text": "A viral audio clip warning of collapsing bridges was baseless.",
+    "tags": [
+      "fake_audio",
+      "bridges"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "audio",
+      "baseless",
+      "bridges",
+      "claims",
+      "clip",
+      "collapsing",
+      "fake",
+      "viral",
+      "warning"
+    ]
+  },
+  {
+    "id": "news115",
+    "title": "Odisha Govt Ensures Free Food Distribution",
+    "text": "Authorities provided cooked meals to displaced residents.",
+    "tags": [
+      "food",
+      "relief",
+      "flood"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "authorities",
+      "cooked",
+      "displaced",
+      "distribution",
+      "ensures",
+      "food",
+      "free",
+      "govt",
+      "meals",
+      "odisha",
+      "provided",
+      "residents"
+    ]
+  },
+  {
+    "id": "news116",
+    "title": "False Rumor That Cyclone Created Sinkholes",
+    "text": "Experts denied claims that the cyclone created large sinkholes in Bhubaneswar.",
+    "tags": [
+      "fake_rumor",
+      "sinkhole"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "bhubaneswar",
+      "claims",
+      "created",
+      "cyclone",
+      "denied",
+      "experts",
+      "false",
+      "large",
+      "rumor",
+      "sinkholes"
+    ]
+  },
+  {
+    "id": "news117",
+    "title": "Forest Teams Rescue Injured Animals",
+    "text": "Forest officials rescued injured birds and animals after storm impact.",
+    "tags": [
+      "forest",
+      "wildlife",
+      "rescue"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "animals",
+      "birds",
+      "forest",
+      "impact",
+      "injured",
+      "officials",
+      "rescue",
+      "rescued",
+      "storm",
+      "teams"
+    ]
+  },
+  {
+    "id": "news118",
+    "title": "Fake Claim Says Railway Tracks Were Washed Away",
+    "text": "Railway authorities confirmed tracks were intact despite viral claims.",
+    "tags": [
+      "fake_news",
+      "railway"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "authorities",
+      "away",
+      "claim",
+      "claims",
+      "confirmed",
+      "despite",
+      "fake",
+      "intact",
+      "railway",
+      "says",
+      "tracks",
+      "viral",
+      "washed"
+    ]
+  },
+  {
+    "id": "news119",
+    "title": "Cyclone Affected Over 1 Million Residents",
+    "text": "Government reports confirmed widespread cyclone impact across coastal districts.",
+    "tags": [
+      "cyclone",
+      "impact"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "across",
+      "affected",
+      "coastal",
+      "confirmed",
+      "cyclone",
+      "districts",
+      "government",
+      "impact",
+      "million",
+      "reports",
+      "residents",
+      "widespread"
+    ]
+  },
+  {
+    "id": "news120",
+    "title": "False Prediction of 'Super Cyclone' Was Circulated",
+    "text": "A message falsely claiming a 'super cyclone' would strike next week was debunked.",
+    "tags": [
+      "fake_prediction",
+      "cyclone"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "circulated",
+      "claiming",
+      "cyclone",
+      "debunked",
+      "false",
+      "falsely",
+      "message",
+      "next",
+      "prediction",
+      "strike",
+      "super",
+      "week",
+      "would"
+    ]
+  },
+  {
+    "id": "news121",
+    "title": "Shelter Volunteers Provide Blankets and Water",
+    "text": "Volunteers distributed blankets and drinking water to shelter residents.",
+    "tags": [
+      "volunteers",
+      "shelters"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "blankets",
+      "distributed",
+      "drinking",
+      "provide",
+      "residents",
+      "shelter",
+      "volunteers",
+      "water"
+    ]
+  },
+  {
+    "id": "news122",
+    "title": "Fake Image Shows Coastline Split in Half",
+    "text": "Satellite experts identified the viral image as digitally manipulated.",
+    "tags": [
+      "fake_image",
+      "coastline"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "coastline",
+      "digitally",
+      "experts",
+      "fake",
+      "half",
+      "identified",
+      "image",
+      "manipulated",
+      "satellite",
+      "shows",
+      "split",
+      "viral"
+    ]
+  },
+  {
+    "id": "news123",
+    "title": "Water Tankers Deployed to Drought-Hit Areas",
+    "text": "Tankers were sent to supply drinking water during drought-like conditions.",
+    "tags": [
+      "drought",
+      "water_supply"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "areas",
+      "conditions",
+      "deployed",
+      "drinking",
+      "drought",
+      "hit",
+      "like",
+      "sent",
+      "supply",
+      "tankers",
+      "water"
+    ]
+  },
+  {
+    "id": "news124",
+    "title": "False Claim That Snakes Filled Entire Paddy Field",
+    "text": "Forest rangers confirmed no unusual snake concentration in paddy fields.",
+    "tags": [
+      "fake_rumor",
+      "snakes"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "claim",
+      "concentration",
+      "confirmed",
+      "entire",
+      "false",
+      "field",
+      "fields",
+      "filled",
+      "forest",
+      "paddy",
+      "rangers",
+      "snake",
+      "snakes",
+      "unusual"
+    ]
+  },
+  {
+    "id": "news125",
+    "title": "Cyclone Brings Record-Breaking Wind Speeds",
+    "text": "IMD confirmed wind speeds that broke regional records during landfall.",
+    "tags": [
+      "wind_speed",
+      "record",
+      "cyclone"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "breaking",
+      "brings",
+      "broke",
+      "confirmed",
+      "cyclone",
+      "imd",
+      "landfall",
+      "record",
+      "records",
+      "regional",
+      "speeds",
+      "wind"
+    ]
+  },
+  {
+    "id": "news126",
+    "title": "Fake Claim Says Meteor Hit Odisha Coast",
+    "text": "No meteor impact occurred; the circulating footage was from Indonesia.",
+    "tags": [
+      "fake_news",
+      "meteor"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "circulating",
+      "claim",
+      "coast",
+      "fake",
+      "footage",
+      "hit",
+      "impact",
+      "indonesia",
+      "meteor",
+      "occurred",
+      "odisha",
+      "says"
+    ]
+  },
+  {
+    "id": "news127",
+    "title": "Cyclone Causes Major Power Outages",
+    "text": "Several districts experienced long power outages due to fallen transmission lines.",
+    "tags": [
+      "power_outage",
+      "cyclone"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "causes",
+      "cyclone",
+      "districts",
+      "due",
+      "experienced",
+      "fallen",
+      "lines",
+      "long",
+      "major",
+      "outages",
+      "power",
+      "several",
+      "transmission"
+    ]
+  },
+  {
+    "id": "news128",
+    "title": "False Video Claims Storm Lifted Cars Into Air",
+    "text": "The video, said to be from Odisha, was from a European windstorm.",
+    "tags": [
+      "fake_video",
+      "cars"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "air",
+      "cars",
+      "claims",
+      "european",
+      "false",
+      "lifted",
+      "odisha",
+      "said",
+      "storm",
+      "video",
+      "windstorm"
+    ]
+  },
+  {
+    "id": "news129",
+    "title": "Landslide Blocks Roads in Hilly Regions",
+    "text": "Heavy rainfall triggered landslides blocking access to several villages.",
+    "tags": [
+      "landslide",
+      "roads"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "access",
+      "blocking",
+      "blocks",
+      "heavy",
+      "hilly",
+      "landslide",
+      "landslides",
+      "rainfall",
+      "regions",
+      "roads",
+      "several",
+      "triggered",
+      "villages"
+    ]
+  },
+  {
+    "id": "news130",
+    "title": "Fake Message Claims Drinking Water Is Contaminated Statewide",
+    "text": "Officials confirmed contamination was localized, not statewide.",
+    "tags": [
+      "fake_rumor",
+      "water"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "claims",
+      "confirmed",
+      "contaminated",
+      "contamination",
+      "drinking",
+      "fake",
+      "localized",
+      "message",
+      "officials",
+      "statewide",
+      "water"
+    ]
+  },
+  {
+    "id": "news131",
+    "title": "Cyclone Floods Thousands of Homes",
+    "text": "Widespread flooding damaged thousands of homes along the coast.",
+    "tags": [
+      "flood",
+      "cyclone"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "along",
+      "coast",
+      "cyclone",
+      "damaged",
+      "flooding",
+      "floods",
+      "homes",
+      "thousands",
+      "widespread"
+    ]
+  },
+  {
+    "id": "news132",
+    "title": "Fake Image Shows Burning Forest Due to Cyclone",
+    "text": "The viral image of burning forest was from California, not Odisha.",
+    "tags": [
+      "fake_image",
+      "forest_fire"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "burning",
+      "california",
+      "cyclone",
+      "due",
+      "fake",
+      "forest",
+      "image",
+      "odisha",
+      "shows",
+      "viral"
+    ]
+  },
+  {
+    "id": "news133",
+    "title": "Rescue Teams Provide Emergency Medical Aid",
+    "text": "Medical teams assisted injured residents in temporary shelters.",
+    "tags": [
+      "medical",
+      "injury",
+      "shelter"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "aid",
+      "assisted",
+      "emergency",
+      "injured",
+      "medical",
+      "provide",
+      "rescue",
+      "residents",
+      "shelters",
+      "teams",
+      "temporary"
+    ]
+  },
+  {
+    "id": "news134",
+    "title": "Fake Claim Says Odisha Will Face 10 More Cyclones",
+    "text": "Meteorological departments rejected such exaggerated predictions.",
+    "tags": [
+      "fake_prediction",
+      "cyclone"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "claim",
+      "cyclones",
+      "departments",
+      "exaggerated",
+      "face",
+      "fake",
+      "meteorological",
+      "odisha",
+      "predictions",
+      "rejected",
+      "says"
+    ]
+  },
+  {
+    "id": "news135",
+    "title": "Cyclone Weakening Trends Observed",
+    "text": "Meteorologists observed weakening cloud structures after landfall.",
+    "tags": [
+      "cyclone",
+      "weakening"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "cloud",
+      "cyclone",
+      "landfall",
+      "meteorologists",
+      "observed",
+      "structures",
+      "trends",
+      "weakening"
+    ]
+  },
+  {
+    "id": "news136",
+    "title": "Fake Photo Shows Cracked Earth Due to Cyclone",
+    "text": "This cracked-earth image was from a drought-hit region in Africa.",
+    "tags": [
+      "fake_image",
+      "cracked_earth"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "africa",
+      "cracked",
+      "cyclone",
+      "drought",
+      "due",
+      "earth",
+      "fake",
+      "hit",
+      "image",
+      "photo",
+      "region",
+      "shows"
+    ]
+  },
+  {
+    "id": "news137",
+    "title": "Helicopter Teams Airlift Stranded Residents",
+    "text": "Air rescue operations evacuated stranded villagers in remote areas.",
+    "tags": [
+      "airlift",
+      "rescue"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "air",
+      "airlift",
+      "areas",
+      "evacuated",
+      "helicopter",
+      "operations",
+      "remote",
+      "rescue",
+      "residents",
+      "stranded",
+      "teams",
+      "villagers"
+    ]
+  },
+  {
+    "id": "news138",
+    "title": "Fake Rumor Claims Cyclone Triggered Earthquake",
+    "text": "Experts confirmed no link between the cyclone and regional seismic activity.",
+    "tags": [
+      "fake_rumor",
+      "earthquake"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "activity",
+      "claims",
+      "confirmed",
+      "cyclone",
+      "earthquake",
+      "experts",
+      "fake",
+      "link",
+      "regional",
+      "rumor",
+      "seismic",
+      "triggered"
+    ]
+  },
+  {
+    "id": "news139",
+    "title": "Odisha Govt Announces Rehabilitation Packages",
+    "text": "Financial rehabilitation packages were announced for affected families.",
+    "tags": [
+      "rehabilitation",
+      "relief"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "affected",
+      "announced",
+      "announces",
+      "families",
+      "financial",
+      "govt",
+      "odisha",
+      "packages",
+      "rehabilitation"
+    ]
+  },
+  {
+    "id": "news140",
+    "title": "Fake Claim of Alien Sightings After Cyclone",
+    "text": "A viral 'alien sighting' video was debunked as CGI animation.",
+    "tags": [
+      "fake_video",
+      "cgi"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "alien",
+      "animation",
+      "cgi",
+      "claim",
+      "cyclone",
+      "debunked",
+      "fake",
+      "sighting",
+      "sightings",
+      "video",
+      "viral"
+    ]
+  },
+  {
+    "id": "news141",
+    "title": "Cyclone Causes Coastal Soil Erosion",
+    "text": "Erosion was recorded along multiple coastline segments in Odisha.",
+    "tags": [
+      "erosion",
+      "coastline"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "along",
+      "causes",
+      "coastal",
+      "coastline",
+      "cyclone",
+      "erosion",
+      "multiple",
+      "odisha",
+      "recorded",
+      "segments",
+      "soil"
+    ]
+  },
+  {
+    "id": "news142",
+    "title": "Fake Map Predicts Odisha Submerging by 2030",
+    "text": "The viral map was scientifically inaccurate and digitally altered.",
+    "tags": [
+      "fake_map",
+      "submerging"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "altered",
+      "digitally",
+      "fake",
+      "inaccurate",
+      "map",
+      "odisha",
+      "predicts",
+      "scientifically",
+      "submerging",
+      "viral"
+    ]
+  },
+  {
+    "id": "news143",
+    "title": "District Hospitals Treat Flood-Related Injuries",
+    "text": "Hospitals reported treating dozens of residents affected by debris and falls.",
+    "tags": [
+      "hospital",
+      "injuries",
+      "flood"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "affected",
+      "debris",
+      "district",
+      "dozens",
+      "falls",
+      "flood",
+      "hospitals",
+      "injuries",
+      "related",
+      "reported",
+      "residents",
+      "treat",
+      "treating"
+    ]
+  },
+  {
+    "id": "news144",
+    "title": "Fake Audio Claims 'Cyclone Will Reappear'",
+    "text": "A misleading audio clip predicted the storm would return, which IMD denied.",
+    "tags": [
+      "fake_audio",
+      "cyclone"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "audio",
+      "claims",
+      "clip",
+      "cyclone",
+      "denied",
+      "fake",
+      "imd",
+      "misleading",
+      "predicted",
+      "reappear",
+      "return",
+      "storm",
+      "would"
+    ]
+  },
+  {
+    "id": "news145",
+    "title": "NGOs Provide Psychological Support to Survivors",
+    "text": "NGOs deployed counselors to help storm-affected families recover emotionally.",
+    "tags": [
+      "ngo",
+      "psychosocial"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "affected",
+      "counselors",
+      "deployed",
+      "emotionally",
+      "families",
+      "help",
+      "ngos",
+      "provide",
+      "psychological",
+      "recover",
+      "storm",
+      "support",
+      "survivors"
+    ]
+  },
+  {
+    "id": "news146",
+    "title": "Fake Claim Says Reservoir Water Turned Black",
+    "text": "Authorities confirmed water remained safe despite viral edited photos.",
+    "tags": [
+      "fake_news",
+      "water"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "authorities",
+      "black",
+      "claim",
+      "confirmed",
+      "despite",
+      "edited",
+      "fake",
+      "photos",
+      "remained",
+      "reservoir",
+      "safe",
+      "says",
+      "turned",
+      "viral",
+      "water"
+    ]
+  },
+  {
+    "id": "news147",
+    "title": "Cyclone Affected Power Grids Repaired",
+    "text": "Engineers restored power grids damaged by strong winds.",
+    "tags": [
+      "repair",
+      "power_grid"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "affected",
+      "cyclone",
+      "damaged",
+      "engineers",
+      "grids",
+      "power",
+      "repaired",
+      "restored",
+      "strong",
+      "winds"
+    ]
+  },
+  {
+    "id": "news148",
+    "title": "Fake Storm Footage Shared as Odisha Disaster",
+    "text": "A storm video labeled 'Odisha cyclone disaster' was from the Philippines.",
+    "tags": [
+      "fake_video",
+      "storm"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "cyclone",
+      "disaster",
+      "fake",
+      "footage",
+      "labeled",
+      "odisha",
+      "philippines",
+      "shared",
+      "storm",
+      "video"
+    ]
+  },
+  {
+    "id": "news149",
+    "title": "Cyclone Emergency Funds Released",
+    "text": "The state government released emergency funds for rapid cyclone relief.",
+    "tags": [
+      "funds",
+      "relief"
+    ],
+    "is_verified": true,
+    "links": [],
+    "auto_tags": [
+      "cyclone",
+      "emergency",
+      "funds",
+      "government",
+      "rapid",
+      "released",
+      "relief",
+      "state"
+    ]
+  },
+  {
+    "id": "news150",
+    "title": "Fake Claim Says Odisha Will Have Permanent Darkness",
+    "text": "A bizarre fake claim said clouds would block the sun for weeks; authorities dismissed it.",
+    "tags": [
+      "fake_rumor",
+      "darkness"
+    ],
+    "is_verified": false,
+    "links": [],
+    "auto_tags": [
+      "authorities",
+      "bizarre",
+      "block",
+      "claim",
+      "clouds",
+      "darkness",
+      "dismissed",
+      "fake",
+      "have",
+      "odisha",
+      "permanent",
+      "said",
+      "says",
+      "sun",
+      "weeks",
+      "would"
+    ]
+  }
+]
