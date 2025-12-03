@@ -182,7 +182,7 @@ python3 main.py
 Example input:
 
 ```text
-Water in Puri has become poisonous after Fani.
+Water in Puri has become poison after Fani.
 ```
 
 **Outputs:**
@@ -254,3 +254,4 @@ Potential project extensions include:
 ---
 
 **If you need additional project resources (PPT, report PDF, architecture diagram, demo script, or GitHub Pages), feel free to request them!**
+
