@@ -31,6 +31,42 @@ class KnowledgeGraphSearcher:
         all_words = text_words | title_words | tag_words | auto_words
 
         return len(all_words & query_words)
+        
+          
+    def bfs_search(self, query):
+        best_node = None
+        best_score = -1
+
+        for node in self.kb:
+            if node.get("is_verified", False):
+                score = self.compute_match_score(node, query)
+
+                if score > best_score:
+                    best_score = score
+                    best_node = node
+
+        return best_node, best_score
+
+
+    
+    def astar_search(self, query):
+        
+        best_node = None
+        best_score = -1
+
+        for node in self.kb:
+            if node.get("is_verified", False):
+                score = self.compute_match_score(node, query)
+                if score > best_score:
+                    best_score = score
+                    best_node = node
+
+        return best_node, best_score
+
+
+
+
+    
 
 
 
